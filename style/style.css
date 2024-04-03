@@ -108,7 +108,7 @@ p.brend{
 
 .top{
   min-height: calc(100vh - 71px);
-  background-image: linear-gradient(to right, #ffffffcf 25%, #9ddde608, transparent), url(/img/top-bg.jpg);
+  background-image: linear-gradient(to right, #ffffffcf 25%, #9ddde608, transparent), url(img/top-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center; 
@@ -260,7 +260,7 @@ p.brend{
 
 .middle{
   min-height: 100vh;
-  background-image: linear-gradient(to left, #ffffffcf 7%, #9ddde608, transparent), url(/img/minCam.jpg);
+  background-image: linear-gradient(to left, #ffffffcf 7%, #9ddde608, transparent), url(img/minCam.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center; 
@@ -499,7 +499,7 @@ p.brend{
 
 @media (max-width: 568px){
   .top{
-    background-image: linear-gradient(to bottom, #ffffffcf 20%, #9ddde608, transparent), url(/img/top-bg.jpg);
+    background-image: linear-gradient(to bottom, #ffffffcf 20%, #9ddde608, transparent), url(img/top-bg.jpg);
     background-position: right;
     min-height: calc(70vh - 71px);
     text-align: center;
@@ -533,7 +533,7 @@ p.brend{
   }
   .middle{
     min-height: 84vh;
-    background-image: url(/img/minCam.jpg);
+    background-image: url(img/minCam.jpg);
     background-position: left center; 
   }
   .contacts{
@@ -569,5 +569,5 @@ p.brend{
   }
   .top {
     min-height: calc(70vh - 71px);
-}
+  }
 }
