@@ -108,7 +108,7 @@ p.brend{
 
 .top{
   min-height: calc(100vh - 71px);
-  background-image: linear-gradient(to right, #ffffffcf 25%, #9ddde608, transparent), url(img/top-bg.jpg);
+  background-image: linear-gradient(to right, #ffffffcf 25%, #9ddde608, transparent), url(./img/top-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom center; 
